@@ -1,3 +1,3 @@
 # Cadsatro de festas
 
-Um sistema de contração de um salão para festas
+Um sistema para a contração de um salão para festas
