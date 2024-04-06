@@ -10,7 +10,7 @@
 #include <string.h>
 
 int main(void) {
-  test_all_functions();
+  // test_all_functions();
   setlocale(LC_ALL, "portuguese");
   int opcao;
   do {
